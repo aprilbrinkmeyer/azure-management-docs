@@ -106,7 +106,7 @@ After you install the agent and configure it to connect to Azure Arc-enabled ser
 
 1. Go to the [Azure portal page for hybrid machines](https://aka.ms/hybridmachineportal).
   > [!TIP]
-    > You can also reach this page in the portal by searching for and selecting "Machines - Azure Arc".
+  > You can also reach this page in the portal by searching for and selecting "Machines - Azure Arc".
  
 1. Confirm the machine has a connected status.
 
